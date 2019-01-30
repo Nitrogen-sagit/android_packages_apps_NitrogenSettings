@@ -42,7 +42,7 @@
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">十六进制：</string>
-    <string name="hex_hint">黑色</string>
+    <string name="hex_hint">#ff000000</string>
     <string name="set">设置</string>
     <string name="color_default">默认</string>
     <!-- Power Menu -->
