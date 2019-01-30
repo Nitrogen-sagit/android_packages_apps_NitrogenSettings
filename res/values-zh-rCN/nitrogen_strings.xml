@@ -234,7 +234,7 @@
     <string name="gesture_action_timeout_title">滑动触发超时</string>
     <string name="gesture_action_timeout_summary">手势动作开始前超时</string>
     <string name="unit_msec">毫秒</string>
-    <string name="unit_px">px</string>
+    <string name="unit_px">像素</string>
     <!-- QS footer warnings -->
     <string name="qs_footer_warnings_title">快捷设置底端警告</string>
     <string name="qs_footer_warnings_summary">当网络被外部应用或 VPN 监控时，在快捷设置面板底端显示警告</string>
