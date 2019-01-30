@@ -172,7 +172,7 @@
     <string name="battery_light_reallyfull_color">充满时(100)</string>
     <!-- Wakeup options -->
     <string name="wakeup_when_plugged_unplugged_title">充电时唤醒</string>
-    <string name="wakeup_when_plugged_unplugged_summary">当充电器插入或拔出时唤醒设备</string>
+    <string name="wakeup_when_plugged_unplugged_summary">当充电器插入或拔出时唤醒设备。</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">电池图标</string>
     <string name="status_bar_battery_percentage_title">电量百分比</string>
@@ -275,7 +275,7 @@
     <string name="smart_pixels_on_power_save_title">省电模式下启用</string>
     <string name="smart_pixels_on_power_save_summary">在省电模式开启时，自动启用智能像素</string>
     <string name="smart_pixels_percent">禁用像素百分比</string>
-    <string name="smart_pixels_info">它在应用上覆盖一层遮罩，因此也许会在诸如 Google Pay 等应用上出现小麻烦\n\n在添加支付卡或启用设备管理员之前禁用它</string>
+    <string name="smart_pixels_info">它在应用上覆盖一层遮罩，因此也许会在诸如 Google Pay 等应用上出现小麻烦。\n\n在添加支付卡或启用设备管理员之前禁用它</string>
     <string name="smart_pixels_shift">通过移动像素来防止烧屏</string>
     <string name="smart_pixels_shift_times_15s">15 秒</string>
     <string name="smart_pixels_shift_times_30s">30 秒</string>
